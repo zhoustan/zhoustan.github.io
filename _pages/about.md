@@ -21,7 +21,7 @@ I'm looking for a PhD position starting in Feb or Sept of 2025.
 
 # Work Experience
 
-**Servyou Software Group Co., Ltd., Algorithm Engineer | Jun. 2019-Jul. 2022 | Hangzhou, China**
+## Servyou Software Group Co., Ltd., Algorithm Engineer - Jun. 2019-Jul. 2022, Hangzhou, China
 
 
 - **Machine Learning Platform**
