@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year master student at University of Zurich, major in Artificial Intelligence. I obtained my bachelor degree in Computer Science and Technology from Zhejiang University City College (ZUCC).
+I am a second-year master's student at the University of Zurich, majoring in Artificial Intelligence. I obtained my bachelor's degree in Computer Science and Technology from Zhejiang University City College (ZUCC).
 
 My current research interests are Machine Learning, Natural Language Processing, and Multimodal technologies.
 
@@ -29,7 +29,7 @@ I'm looking for a PhD position starting in Feb or Sept of 2025.
   - Implemented the core compiler and generic data processing components.
 
 - **Intelligent Customer Service (Project Leader)**
-  - Developed a Q&A bot for finance and tax sectors, achieving a 90% resolution rate.
+  - Developed a Q&A bot for the finance and tax sectors, achieving a 90% resolution rate.
   - Implemented NLP and Q&A algorithms based on BERT.
 
 - **Image Recognition and OCR (Project Leader)**
