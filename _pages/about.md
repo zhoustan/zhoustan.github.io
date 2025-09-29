@@ -19,14 +19,14 @@ I'm looking for a PhD position starting from Sept 2026.
 
 (\*  indicates equal contribution)
 
-**Zhou, Y.**, Sun, G., Li, Y., Fu, Y., Benini, L., & Konukoglu, E. (2025). CamSAM2: Segment anything accurately in camouflaged videos. NeurIPS 2025. [[paper](https://arxiv.org/pdf/2503.19730)] [[code](https://github.com/zhoustan/CamSAM2)]
+**Zhou, Y.**, Sun, G., Li, Y., Fu, Y., Benini, L., & Konukoglu, E. (2025). CamSAM2: Segment anything accurately in camouflaged videos. **NeurIPS 2025**. [[paper](https://arxiv.org/pdf/2503.19730)] [[code](https://github.com/zhoustan/CamSAM2)]
 
 **Zhou, Y.**, Sun, G., Li, Y. et al. When SAM2 meets video camouflaged object segmentation: a comprehensive evaluation and adaptation. Vis. Intell. 3, 10 (2025). [[paper](https://link.springer.com/article/10.1007/s44267-025-00082-1)] [[code](https://github.com/zhoustan/SAM2-VCOS)]
 
 
 Chen, Y. H.*, & **Zhou, Y.*** (2023). Enhancing OCR performance through Post-OCR models: Adopting glyph embedding for improved correction. [[paper](https://arxiv.org/pdf/2308.15262)]
 
-Jin, C., **Zhou, Y.**, Ying, S., Zhang, C., Wang, W., & Wu, M. (2020). **A knowledge-fusion ranking system with an attention network for making assignment recommendations.** Computational Intelligence and Neuroscience, 2020. [[paper](https://onlinelibrary.wiley.com/doi/pdf/10.1155/2020/6748430)]
+Jin, C., **Zhou, Y.**, Ying, S., Zhang, C., Wang, W., & Wu, M. (2020). A knowledge-fusion ranking system with an attention network for making assignment recommendations. Computational Intelligence and Neuroscience, 2020. [[paper](https://onlinelibrary.wiley.com/doi/pdf/10.1155/2020/6748430)]
 
 
 # Education
