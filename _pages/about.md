@@ -7,6 +7,67 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+  /* 全局字体优化 */
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+  
+  /* 针对 Education 和 Experience 的布局 */
+  .resume-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 5px;
+  }
+  .resume-org { font-weight: bold; font-size: 1.05em; color: #333; }
+  .resume-loc { font-style: italic; color: #666; font-size: 0.9em; }
+  .resume-role { font-style: italic; color: #555; margin-bottom: 15px; display: block;}
+  
+  /* 针对 Publications 的样式 */
+  .pub-item { margin-bottom: 25px; }
+  .pub-title { font-weight: bold; color: #000; font-size: 1.05em; }
+  .pub-authors { color: #444; }
+  .pub-venue { font-weight: bold; color: #d9534f; } /* 强调色 */
+  
+  /* 把链接变成小按钮 */
+  .pub-btn {
+    display: inline-block;
+    padding: 3px 8px;
+    margin-right: 5px;
+    margin-top: 5px;
+    background-color: #f6f8fa;
+    border: 1px solid #d0d7de;
+    border-radius: 6px;
+    color: #24292f;
+    text-decoration: none !important;
+    font-size: 0.85em;
+    transition: 0.2s;
+  }
+  .pub-btn:hover { background-color: #eef1f4; border-color: #0969da; color: #0969da; }
+
+  /* 优化 TL;DR 样式 (去掉丑陋的灰竖条) */
+  .tldr-box {
+    margin-top: 8px;
+    padding: 8px 12px;
+    background-color: #f1f8ff; /* 极浅的蓝色背景 */
+    border-left: 3px solid #0969da; /* 左侧亮条 */
+    border-radius: 0 4px 4px 0;
+    color: #444;
+    font-size: 0.9em;
+    line-height: 1.4;
+  }
+  
+  /* 寻找 PhD 的横幅 */
+  .alert-banner {
+    background-color: #fff5f5;
+    border: 1px solid #ff8182;
+    color: #cf222e;
+    padding: 12px;
+    border-radius: 6px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: 500;
+  }
+</style>
 
 <div style="background-color: #ffe6e6; border: 1px solid #ff0000; padding: 10px; margin-bottom: 20px; border-radius: 5px; text-align: center; color: #cc0000;">
     <strong>🔥 I am actively looking for Ph.D. positions in Robotics and Computer Vision starting in Fall 2026.</strong>
@@ -53,27 +114,39 @@ Chen, Y. H.\*, & **Zhou, Y.\*** (2023). **Enhancing OCR performance through Post
 Jin, C., **Zhou, Y.**, Ying, S., et al. (2020). **A knowledge-fusion ranking system with an attention network for making assignment recommendations.** *Computational Intelligence and Neuroscience*.  
 [[paper](https://onlinelibrary.wiley.com/doi/pdf/10.1155/2020/6748430)]
 
----
-
-# 💻 Experience
-
-### **Servyou Software Group Co., Ltd.**
-*Algorithm Engineer | Hangzhou, China | Jun. 2019 - Jul. 2022*
-
-* **Machine Learning Platform (Core Member):**
-    * Designed a Kubernetes-based ML platform to streamline algorithm development and deployment.
-    * Implemented core compilers and generic data processing pipelines to support large-scale model training.
-* **Intelligent Customer Service (Project Leader):**
-    * Built a BERT-based Q&A bot for finance/tax sectors, handling complex multi-turn dialogues with a 90% resolution rate.
-* **Image Recognition and OCR (Project Leader):**
-    * Architected high-concurrency OCR systems (CNN+LSTM+CTC, YOLO) achieving 99.99% SLA availability.
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
-* **University of Zurich** *M.Sc. in Artificial Intelligence, Minor in Data Science* *Feb. 2023 - Present | Zurich, Switzerland*
+<div class="resume-item">
+  <span class="resume-org">University of Zurich</span>
+  <span class="resume-loc">Zurich, Switzerland</span>
+</div>
+<span class="resume-role">M.Sc. in Artificial Intelligence, Minor in Data Science (Feb. 2023 - Present)</span>
 
-* **ETH Zurich** *Special Student in Computer Science* *Feb. 2023 - Present | Zurich, Switzerland*
+<div class="resume-item">
+  <span class="resume-org">ETH Zurich</span>
+  <span class="resume-loc">Zurich, Switzerland</span>
+</div>
+<span class="resume-role">Special Student in Computer Science (Feb. 2023 - Present)</span>
 
-* **Zhejiang University City College** *B.Eng. in Computer Science* *Sep. 2016 - Jun. 2020 | Hangzhou, China*
+<div class="resume-item">
+  <span class="resume-org">Zhejiang University City College</span>
+  <span class="resume-loc">Hangzhou, China</span>
+</div>
+<span class="resume-role">B.Eng. in Computer Science (Sep. 2016 - Jun. 2020)</span>
+
+---
+
+## 💻 Work Experience
+
+<div class="resume-item">
+  <span class="resume-org">Servyou Software Group Co., Ltd.</span>
+  <span class="resume-loc">Hangzhou, China</span>
+</div>
+<span class="resume-role">Algorithm Engineer (Jun. 2019 - Jul. 2022)</span>
+
+* **Machine Learning Platform:** Designed a Kubernetes-based ML platform; implemented core compilers and data pipelines.
+* **Intelligent Customer Service:** Built a BERT-based Q&A bot achieving 90% resolution rate.
+* **Image Recognition:** Architected high-concurrency OCR systems (CNN+LSTM, YOLO) with 99.99% SLA.
