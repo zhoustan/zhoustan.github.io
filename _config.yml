@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuli Zhou"
 title_separator          : "-"
 name                     : &name "Yuli Zhou"
-description              : &description "Master student at University of Zurich"
+description              : &description "Master student at University of Zurich | Student Researcher at CVL, ETH Zurich"
 url                      : https://zhoustan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhoustan/zhoustan.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuli Zhou"
   avatar           : "profile.png"
-  bio              : "Master student at University of Zurich"
+  bio              : "Master student at University of Zurich | Student Researcher at CVL, ETH Zurich"
   location         : "Zurich, Switzerland"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
