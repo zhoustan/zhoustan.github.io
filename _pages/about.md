@@ -95,7 +95,7 @@ Prior to my master's, I spent 3 years as an Algorithm Engineer at Servyou Group,
 
 (\* indicates equal contribution)
 
-**Zhou, Y.**, Chen, Q., et al. **Revisiting atomic rounding with vectorized reparameterization for LLM quantization.** *arXiv preprint*.  
+**Zhou, Y.**, Chen, Q., et al. **Revisiting atomic rounding with vectorized reparameterization for LLM quantization.** *preprint*.  
 [[paper](https://openreview.net/pdf?id=jHF5nJI1Rl)].
 > **TL;DR:** Proposed VQRound to enable competitive 2-bit/3-bit quantization on billion-parameter models, significantly reducing memory for edge deployment.
 
