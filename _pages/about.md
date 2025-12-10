@@ -95,23 +95,23 @@ Prior to my master's, I spent 3 years as an Algorithm Engineer at Servyou Group,
 
 (\* indicates equal contribution)
 
-**Zhou, Y.**, Chen, Q., et al. **Revisiting atomic rounding with vectorized reparameterization for LLM quantization.** *preprint*.  
+**Yuli Zhou**, Qingxuan Chen, Guolei Sun, Luca Benini, Yawei Li. **Revisiting atomic rounding with vectorized reparameterization for LLM quantization.** *preprint* (2025).  
 [[paper](https://openreview.net/pdf?id=jHF5nJI1Rl)].
-> **TL;DR:** Proposed VQRound to enable competitive 2-bit/3-bit quantization on billion-parameter models, significantly reducing memory for edge deployment.
+<!-- > **TL;DR:** Proposed VQRound to enable competitive 2-bit/3-bit quantization on billion-parameter models, significantly reducing memory for edge deployment. -->
 
 
-**Zhou, Y.**, Li, Y., Fu, Y., Benini, L., Konukoglu, E. & Sun, G.. (2025). **CamSAM2: Segment anything accurately in camouflaged videos.** **NeurIPS 2025**.  
+**Yuli Zhou**, Yawei Li, Yuqian Fu, Luca Benini, Ender Konukoglu, Guolei Sun. **CamSAM2: Segment anything accurately in camouflaged videos.** *NeurIPS 2025* (2025).  
 [[paper](https://arxiv.org/pdf/2503.19730)] [[code](https://github.com/zhoustan/CamSAM2)]  
-> **TL;DR:** Proposed a framework enhancing temporal coherence and segmentation accuracy in challenging camouflaged video scenes without modifying SAM2's parameters.
+<!-- > **TL;DR:** Proposed a framework enhancing temporal coherence and segmentation accuracy in challenging camouflaged video scenes without modifying SAM2's parameters. -->
 
 
-**Zhou, Y.**, Sun, G., Li, Y. et al. (2025). **When SAM2 meets video camouflaged object segmentation: a comprehensive evaluation and adaptation.** *Visual Intelligence*.  
+**Yuli Zhou**, Guolei Sun, Yawei Li, Guo-Sen Xie, Luca Benini, Ender Konukoglu. **When SAM2 meets video camouflaged object segmentation: a comprehensive evaluation and adaptation.** *Visual Intelligence* 3, 10 (2025).  
 [[paper](https://link.springer.com/article/10.1007/s44267-025-00082-1)] [[code](https://github.com/zhoustan/SAM2-VCOS)]
 
-Chen, Y. H.\*, & **Zhou, Y.\*** (2023). **Enhancing OCR performance through Post-OCR models: Adopting glyph embedding for improved correction.** *arXiv preprint*.  
+Yung-Hsin Chen\*, **Yuli Zhou\***. **Enhancing OCR performance through Post-OCR models: Adopting glyph embedding for improved correction.** *arXiv preprint* (2023).  
 [[paper](https://arxiv.org/pdf/2308.15262)]
 
-Jin, C., **Zhou, Y.**, Ying, S., et al. (2020). **A knowledge-fusion ranking system with an attention network for making assignment recommendations.** *Computational Intelligence and Neuroscience*.  
+Canghong Jin, **Yuli Zhou**, Shengyu Ying, Chi Zhang, Weisong Wang, Minghui Wu. **A knowledge-fusion ranking system with an attention network for making assignment recommendations.** *Computational Intelligence and Neuroscience*, 6748430 (2020).  
 [[paper](https://onlinelibrary.wiley.com/doi/pdf/10.1155/2020/6748430)]
 
 
