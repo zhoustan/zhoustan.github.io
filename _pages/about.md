@@ -73,7 +73,7 @@ redirect_from:
     <strong>🔥 I am actively looking for Ph.D. positions in Robotics and Computer Vision starting in Fall 2026.</strong>
 </div>
 
-I am a Master's student at the University of Zurich, majoring in Artificial Intelligence. Since August 2024, I have been working as a Student Researcher at the **Computer Vision Lab (CVL), ETH Zurich**, advised by Prof. Dr. [Guolei Sun](https://guoleisun.github.io/) and Dr. [Yawei Li](https://yaweili.bitbucket.io/).
+I am a Master's student at the University of Zurich, majoring in Artificial Intelligence. Since August 2024, I have been working as a Student Researcher at the **Computer Vision Lab (CVL), ETH Zurich**, fortunately advised by Prof. Dr. [Guolei Sun](https://guoleisun.github.io/) and Dr. [Yawei Li](https://yaweili.bitbucket.io/).
 
 My research aims to build **efficient and robust perception systems** for intelligent agents. Currently, I focus on:
 * **Video Understanding:** Robust segmentation and object tracking in dynamic scenes (crucial for robot perception).
@@ -87,7 +87,7 @@ Prior to my master's, I spent 3 years as an Algorithm Engineer at Servyou Group,
 # 🔥 News
 * **[Sept. 2025]** One paper on Video Camouflaged Object Segmentation (CamSAM2) was accepted to **NeurIPS 2025**!
 * **[Jun. 2025]** One paper was accepted to **Visual Intelligence**!
-* **[Aug. 2024]** Joined Computer Vision Lab (CVL) at ETH Zurich as a Student Researcher.
+* **[Aug. 2024]** Joined **Computer Vision Lab (CVL)** at **ETH Zurich** as a Student Researcher.
 
 ---
 
