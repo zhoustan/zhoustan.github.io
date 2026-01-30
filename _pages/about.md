@@ -95,7 +95,7 @@ Prior to my master's, I spent 3 years as an Algorithm Engineer at Servyou Group,
 
 (\* indicates equal contribution)
 
-**Yuli Zhou**, Qingxuan Chen, Guolei Sun, Luca Benini, Yawei Li. **Revisiting atomic rounding with vectorized reparameterization for LLM quantization.** *preprint* (2025).  
+**Yuli Zhou**, Qingxuan Chen, Luca Benini, Guolei Sun, Yawei Li. **Revisiting adaptive rounding with vectorized reparameterization for LLM quantization.** *preprint* (2025).  
 [[paper](https://openreview.net/pdf?id=jHF5nJI1Rl)].
 <!-- > **TL;DR:** Proposed VQRound to enable competitive 2-bit/3-bit quantization on billion-parameter models, significantly reducing memory for edge deployment. -->
 
