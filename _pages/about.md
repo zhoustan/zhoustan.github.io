@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 <style>
-  /* 全局字体优化 */
   body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
   
-  /* 针对 Education 和 Experience 的布局 */
   .resume-item {
     display: flex;
     justify-content: space-between;
@@ -22,13 +20,11 @@ redirect_from:
   .resume-loc { font-style: italic; color: #666; font-size: 0.9em; }
   .resume-role { font-style: italic; color: #555; margin-bottom: 15px; display: block;}
   
-  /* 针对 Publications 的样式 */
   .pub-item { margin-bottom: 25px; }
   .pub-title { font-weight: bold; color: #000; font-size: 1.05em; }
   .pub-authors { color: #444; }
-  .pub-venue { font-weight: bold; color: #d9534f; } /* 强调色 */
+  .pub-venue { font-weight: bold; color: #d9534f; }
   
-  /* 把链接变成小按钮 */
   .pub-btn {
     display: inline-block;
     padding: 3px 8px;
@@ -44,19 +40,17 @@ redirect_from:
   }
   .pub-btn:hover { background-color: #eef1f4; border-color: #0969da; color: #0969da; }
 
-  /* 优化 TL;DR 样式 (去掉丑陋的灰竖条) */
   .tldr-box {
     margin-top: 8px;
     padding: 8px 12px;
-    background-color: #f1f8ff; /* 极浅的蓝色背景 */
-    border-left: 3px solid #0969da; /* 左侧亮条 */
+    background-color: #f1f8ff;
+    border-left: 3px solid #0969da;
     border-radius: 0 4px 4px 0;
     color: #444;
     font-size: 0.9em;
     line-height: 1.4;
   }
   
-  /* 寻找 PhD 的横幅 */
   .alert-banner {
     background-color: #fff5f5;
     border: 1px solid #ff8182;
@@ -96,7 +90,7 @@ Prior to my master's, I spent 3 years as an Algorithm Engineer at Servyou Group,
 (\* indicates equal contribution)
 
 **Yuli Zhou**, Qingxuan Chen, Luca Benini, Guolei Sun, Yawei Li. **Revisiting adaptive rounding with vectorized reparameterization for LLM quantization.** *preprint* (2025).  
-[[paper](https://openreview.net/pdf?id=jHF5nJI1Rl)].
+[[paper](https://arxiv.org/pdf/2602.02151)] [[code](https://github.com/zhoustan/VQRound)].
 <!-- > **TL;DR:** Proposed VQRound to enable competitive 2-bit/3-bit quantization on billion-parameter models, significantly reducing memory for edge deployment. -->
 
 
